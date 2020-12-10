@@ -1,0 +1,9 @@
+site_name: Andrea_Conatti
+
+nav:
+
+    - 'MD': 'index.md'
+    - 'Test': 'test.txt'
+ 
+theme:
+    name: readthedocs
